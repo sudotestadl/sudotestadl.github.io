@@ -8,7 +8,7 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Hillo, ho, ho, boy; come bird, come',
+      'Hillo, ho, ho, boy; come bird, come.',
   'example2':
       'I do not know, my dear.',
   'example3':
