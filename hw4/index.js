@@ -8,13 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Hillo, ho, ho, boy; come bird, come.',
+      'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example2':
-      'I do not know, my dear.',
+      'Buda-Pesth seems a wonderful place.',
   'example3':
-      'Can I see another's grief, And not seek for kind relief?'
-  'example4':
-      'There is another shore, you know, upon the other side.'
+      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
 };
 
 function status(statusText) {
