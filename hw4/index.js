@@ -12,7 +12,9 @@ const examples = {
   'example2':
       'I do not know, my dear.',
   'example3':
-      'Can I see another's grief, And not seek for kind relief?'      
+      'Father, father, where are you going?'
+  'example4':
+      'There is another shore, you know, upon the other side.'
 };
 
 function status(statusText) {
