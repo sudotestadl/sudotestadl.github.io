@@ -12,7 +12,7 @@ const examples = {
   'example2':
       'I do not know, my dear.',
   'example3':
-      'Father, father, where are you going?'
+      'Father, father, where are you going?',
   'example4':
       'There is another shore, you know, upon the other side.'
 };
