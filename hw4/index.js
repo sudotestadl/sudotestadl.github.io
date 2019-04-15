@@ -12,7 +12,7 @@ const examples = {
   'example2':
       'I do not know, my dear.',
   'example3':
-      'Father, father, where are you going?',
+      'Hear the voice of the Bard, Who present, past, and future, sees; Whose ears have heard The Holy Word That walked among the ancient tree;',
   'example4':
       'There is another shore, you know, upon the other side.'
 };
